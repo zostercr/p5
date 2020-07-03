@@ -13,7 +13,8 @@ which version your computer is using, run
    python --version
 
 from a terminal window. If the reported version is greater than 3.0,
-you're good to proceed.
+you're good to proceed. But the latest Python version GLFW supports 
+is 3.6, so install 3.6 if you have a newer one.
 
 If you don't already have Python installed, refer to the `The
 Hitchhiker's Guide To Python <http://docs.python-guide.org/>`_ and its
